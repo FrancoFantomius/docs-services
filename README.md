@@ -1,9 +1,7 @@
-# Francofantomius Services | Documentation
 The documentation for the APIs to [services.francofantomius.com](https://services.francofantomius.com)
+This is the [link](https://docs.francofantomius.com) to this documentation.
 
-[Link](https://francofantomius.github.io/docs-services/) to this documentation.
-
-At this stage the documentation is more of a collection of examples.
+Please note that at this stage the documentation is more of a collection of examples.
 
 ## Index
 1. [Introduction](#introduction)
